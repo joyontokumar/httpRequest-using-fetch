@@ -7,7 +7,7 @@ myhttp.get('https://jsonplaceholder.typicode.com/users');
 const data = {
   name: "joyonto",
   username: "kumar",
-  email: "engr.joyontoroy@gmail.com"
+  email: "demo@gmail.com"
 }
 myhttp.post('https://jsonplaceholder.typicode.com/users', data);
 
